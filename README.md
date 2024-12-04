@@ -23,10 +23,18 @@ This project provides a lightweight, terminal-based database management system (
     * Prevents invalid column names or types.
     * Restricts operations on nonexistent databases or tables.
    
-#How to Use
-  - Clone the repository:
-    git clone https://github.com/otifi3/DBMS-BashScript.git
-    mkdir <directory_name>
-    cd <directory_name>
-    chmod +x dbms.sh
-    ./dbms.sh
+## How to Use
+
+```bash
+# Clone the repository
+git clone https://github.com/otifi3/DBMS-BashScript.git
+
+# Create and navigate to the directory
+mkdir <directory_name>
+cd <directory_name>
+
+# Make the script executable
+chmod +x dbms.sh
+
+# Run the script
+./dbms.sh
