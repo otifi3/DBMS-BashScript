@@ -1,7 +1,7 @@
-#DBMS Script
+## DBMS Script
 This project provides a lightweight, terminal-based database management system (DBMS) implemented in Bash. It allows users to perform essential database operations, such as creating, dropping, and managing databases and tables. The script is designed to demonstrate the functionality of relational database management systems (RDBMS) through a shell-based interface.
 
-#Features
+## Features
   - Database Management:
     * Create new databases.
     * Drop existing databases.
